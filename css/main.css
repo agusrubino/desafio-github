@@ -144,6 +144,9 @@ margin-bottom: 70px;
 }
 
 /* css MI CARRITO */
+.bodyMiCarrito{
+    background-image: linear-gradient(rgb(204, 17, 17) , whitesmoke);
+}
 .h2MiCarrito{
     margin-top: 250px;
     margin-bottom: 250px;
