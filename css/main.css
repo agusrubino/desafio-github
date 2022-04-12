@@ -1,0 +1,150 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+}
+/* css INICIO */
+/*css header*/
+header{
+    background-color: rgb(204, 17, 17);
+    position: sticky;
+    top: 0px;
+}
+nav{
+    text-align: center;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 45px;
+    padding-left: 59px;
+    padding-right: 59px;
+}
+h1{
+    color: white;
+    text-align: right;
+    padding: 10px;
+    font-size: 75px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-right: 75px;
+}
+/*body*/
+body{
+    background-color: rgb(199, 199, 199);
+}
+section{
+    background-image: url(../img/Rebajas-Foot-Locker-2a.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 350px;
+    padding-bottom: 350px;
+    }
+
+    h2{
+    background-color: white;
+    text-align: center;
+    color: rgb(204, 17, 17);
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-left: 407px;
+    margin-right: 407px;
+}
+/*ofertas y nuevos ingresos*/
+h3{
+    text-align: center;
+    color: rgb(204, 17, 17);
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    padding: 100px;
+}
+
+.ofertas{
+    text-align: center;
+}
+.ofertas li{
+    display: inline;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: rgb(204, 17, 17);
+    padding-left: 270px;
+    padding-right: 270px;
+    padding-bottom: 305px;
+}
+
+.divInicio{ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+/*footer*/
+footer{
+    color:  rgb(204, 17, 17);
+    text-align: center;
+    font-family:  'Roboto', sans-serif;
+    font-weight: 800;
+    padding: 100px;
+}
+/*css PRODUCTOS*/
+/*body*/
+.bodyProductos{
+    background-color: rgb(199, 199, 199);
+}
+/*futuro menu de productos*/
+.tipoProducto{
+    margin-top: 25px;
+    margin-left: 840px;
+    margin-right: 840px;
+}
+.listasProd{
+    text-align: center;
+    padding: 15px;
+    margin: 70px 300px 70px 300px;}
+.listasProd li{
+    background-color: white;
+    display: inline;
+    font-family: 'Roboto', sans-serif;
+    padding: 15px;
+    color: rgb(204, 17, 17);
+    font-size: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+/*css CONTACTANOS*/
+
+.h2Contac{margin-top: 70px;
+margin-bottom: 70px;
+}
+/*formulario*/
+.formulario{
+    background-color: white;
+    text-align: justify;
+    color: rgb(204, 17, 17);
+    font-size: 25px;
+    font-family:'Roboto', sans-serif;
+    font-weight: bolder;
+    margin: 50px;
+    padding-bottom: 70px;
+}
+.mapouter{
+    margin-left: 600px;
+}
+/*css SOBRE NOSOTROS */
+
+.h2SobreNosotros{
+    margin-top: 200px;
+}
+
+/* css MI CARRITO */
+.h2MiCarrito{
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
