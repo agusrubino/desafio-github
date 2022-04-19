@@ -23,6 +23,10 @@ nav ul li a{
     padding-left: 59px;
     padding-right: 59px;
 }
+nav ul li a:hover{
+    color: black;
+    font-size: 350%;
+}
 h1{
     color: white;
     text-align: right;
